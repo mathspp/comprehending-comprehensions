@@ -1,0 +1,17 @@
+{
+    "file_name": "",
+    "theme": "dracula",
+    "background": "linear-gradient(200deg, #FF5555, #FF5555, #6272A4)",
+    "padding_left": 60,
+    "padding_right": 60,
+    "padding_top": 40,
+    "padding_bottom": 100,
+    "profile_info": {
+        "show_fullname": true,
+        "show_username": true,
+        "show_avatar": true,
+        "position": "bottom-left"
+    },
+    "language": "python",
+    "watermark": false
+}
